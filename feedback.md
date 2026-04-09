@@ -2,7 +2,8 @@
 
 ## NhomB5-C401:
 
-Tiêu chí | Điểm (1-5) |
+|Tiêu chí | Điểm (1-5) |
+|----------|-----------|
 | Problem-solution fit | 5 | 
 | AI product thinking | 4 | 
 | Demo quality | 4 |
@@ -16,7 +17,8 @@ Chưa xử lý được fallback khi mà model bị dính rate limit exceeded
 
 ## NhomB6-C401:
 
-Tiêu chí | Điểm (1-5) |
+|Tiêu chí | Điểm (1-5) |
+|----------|-----------|
 | Problem-solution fit | 2 | 
 | AI product thinking | 3 | 
 | Demo quality | 4 |
@@ -29,7 +31,8 @@ Cần cải thiện việc database crawl từ web của Vinmec nên dữ liệu
 
 ## NhomA5-C401:
 
-Tiêu chí | Điểm (1-5) |
+|Tiêu chí | Điểm (1-5) |
+|----------|-----------|
 | Problem-solution fit | 4 | 
 | AI product thinking | 3 | 
 | Demo quality | 4 |
@@ -41,7 +44,8 @@ Tiêu chí | Điểm (1-5) |
 
 ## NhomA4-C401:
 
-Tiêu chí | Điểm (1-5) |
+|Tiêu chí | Điểm (1-5) |
+|----------|-----------|
 | Problem-solution fit | 4 | 
 | AI product thinking | 4 | 
 | Demo quality | 3 |
